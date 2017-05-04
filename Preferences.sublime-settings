@@ -1,0 +1,39 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_width": 3,
+	"color_scheme": "Packages/Color Scheme - Default/Eiffel.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.aux",
+		"*.bbl",
+		"*.blg",
+		"*.fdb_latexmk",
+		"*.fls",
+		"*.log",
+		"*.out",
+		"*.spl",
+		"*.synctex.gz",
+		"*.sublime-workspace",
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		".idea",
+		"__pycache__"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottome": 5,
+	"line_padding_top": 5,
+	"open_files_in_new_window": false,
+	"scroll_past_end": true,
+	"spell_check": true,
+	"trim_trailing_white_space_on_save": true,
+	"wrap_width": 100
+}
